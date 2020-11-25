@@ -1,0 +1,40 @@
+{
+  "name": "check-information",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "formdata": "^0.10.4",
+    "jquery": "^3.5.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "register-service-worker": "^1.7.1",
+    "vue": "^2.6.12",
+    "vue-quick-chat": "^1.2.6",
+    "vue-router": "^3.4.7",
+    "vue-sidebar-menu": "^4.7.3",
+    "vue-stylus-resources-loader": "0.0.1",
+    "vuesax": "^4.0.1-alpha.25",
+    "vuetify": "^2.3.14",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-pwa": "~4.4.0",
+    "@vue/cli-plugin-router": "~4.4.0",
+    "@vue/cli-plugin-vuex": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^4.44.2"
+  }
+}
